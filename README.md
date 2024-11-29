@@ -1,0 +1,2 @@
+# farhod
+ai fayls
